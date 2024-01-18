@@ -1,5 +1,5 @@
 import wholeWheat from "./assets/whole.jpeg";
-import multiGrain from "./assets/multiGrain.jpg";
+import multiGrain from "./assets/multigrain.jpg";
 import rye from "./assets/rye.jpg";
 import potato from "./assets/potato.jpg";
 import hokkaido from "./assets/hokkaido.jpg";
